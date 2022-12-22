@@ -10,3 +10,7 @@ Other TODOs:
 - speed runs? maybe only render every x runthroughs? 
 - https://stable-baselines3.readthedocs.io/en/master/
 - TensorFlow & PyTorch
+- https://huggingface.co/blog/rlhf
+- https://arxiv.org/pdf/1602.01783.pdf
+- https://www.youtube.com/watch?v=-mhBD8Frkc4&t=3096s
+
